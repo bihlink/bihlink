@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/gwnlquih/public_html/bihlink/
-    - /bin/cp -R . $DEPLOYPATH
